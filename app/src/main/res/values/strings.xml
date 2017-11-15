@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidExampleIths</string>
+    <string name="sendtext">Send</string>
+    <string name="messagerecieved">Message recieved:</string>
+    <string name="messagehint">Enter some message here</string>
+    <string name="editbutton">Edit</string>
+    <string name="donebutton">Done</string>
+</resources>
